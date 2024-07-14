@@ -6,10 +6,9 @@
 
 #
 
-<div align="center" ><a href="https://discord.com/users/406416295349714944"><img width="100%" src="https://github.com/CoffeeeMan/CoffeeeMan/assets/126782935/a0727928-cad5-4420-85c5-4ee43bfe43bd"></a></div><div align="center"><strong><b>SOME COFFEE</b></strong></div>
+<div align="center" ><a href="https://discord.com/users/406416295349714944"><img width="100%" src="https://github.com/user-attachments/assets/776b611f-bb44-4aa7-9804-3144a96149c2"></a></div><div align="center"><strong><b>SOME COFFEE</b></strong></div>
 
 #
-
 
 <!--
                                                   :7?77777!~^:.                                     
