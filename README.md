@@ -4,6 +4,6 @@
 
 <div align="center">
   <a href="https://discord.com/users/406416295349714944">
-    <img width="60%" src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?bg=00000077&borderRadius=7px">
+    <img width="60%" src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?bg=00000050&borderRadius=7px&idleMessage=No%20coffee%20and%20exhausted&hideBadges=true&showDisplayName=true">
   </a>
 </div>
